@@ -1,5 +1,4 @@
 "use client";
-import { Auth } from "@auth/core";
 import React, { useState } from "react";
 import AuthButton from "./AuthButton";
 
